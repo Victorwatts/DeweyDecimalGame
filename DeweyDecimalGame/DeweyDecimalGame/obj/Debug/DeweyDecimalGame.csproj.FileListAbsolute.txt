@@ -1,0 +1,16 @@
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe.config
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.exe
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\DeweyDecimalGame.pdb
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.exe
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.pdb
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.MainMenuForm.resources
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.ReplacingBooksControl.resources
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\UserDB.mdf
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\bin\Debug\UserDB_log.ldf
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.UserLoggedBannerControl.resources
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.UserStatsControl.resources
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\DeweyDecimalGame\DeweyDecimalGame\obj\Debug\DeweyDecimalGame.RockPaperScissorsForm.resources
